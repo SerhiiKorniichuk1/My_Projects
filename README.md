@@ -1,2 +1,2 @@
-# my main projects in appropriate areas
+# my main projects are in appropriate areas
 Projects are located in branches
